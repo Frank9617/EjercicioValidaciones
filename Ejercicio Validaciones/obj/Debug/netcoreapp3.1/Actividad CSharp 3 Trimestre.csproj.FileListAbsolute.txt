@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\bin\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.exe
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\bin\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.deps.json
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\bin\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.runtimeconfig.json
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\bin\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\bin\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.dll
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\bin\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.pdb
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.dll
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.pdb
+C:\Users\Usuario\source\repos\Actividad CSharp 3 Trimestre\obj\Debug\netcoreapp3.1\Actividad CSharp 3 Trimestre.genruntimeconfig.cache
